@@ -35,7 +35,7 @@
 ## Инструкция по запуску
 1. **Клонируйте репозиторий:**
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/persikaleshka/Zoo_in_java.git
    ```
 2. **Перейдите в директорию проекта:**
    ```sh
